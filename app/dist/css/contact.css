@@ -1,0 +1,23 @@
+#contact table {
+    margin-top: 1rem;
+    border-collapse: collapse;
+}
+
+#contact table td {
+    padding: .25rem;
+}
+
+#contact-form {
+
+}
+
+#contact-form .field {
+    display: grid;
+    grid-template-columns: 100px 1fr;
+    padding: .5rem;
+}
+
+textarea {
+    resize: none;
+    height: 150px;
+}
