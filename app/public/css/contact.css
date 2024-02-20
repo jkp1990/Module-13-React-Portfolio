@@ -1,0 +1,8 @@
+#contact table {
+    margin-top: 1rem;
+    border-collapse: collapse;
+}
+
+#contact table td {
+    padding: .25rem;
+}

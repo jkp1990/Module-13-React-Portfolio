@@ -1,0 +1,24 @@
+.intro {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    align-items: center;
+}
+
+.profile-pic img {
+    border: 5px solid var(--purple3);
+    width: 100%;
+    border-radius: 50%;
+    aspect-ratio: 1;
+    object-fit: cover;
+    object-position: 0 -5px;
+}
+
+.bio {
+    text-align: justify;
+    padding-top: 1rem;
+}
+
+#skills-list li {
+    margin: 1rem 0;
+}

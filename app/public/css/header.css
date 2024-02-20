@@ -1,0 +1,13 @@
+header {
+    padding: 1rem 0;
+    border-bottom: 4px solid var(--pink1);
+    position: relative;
+    background-color: white;
+    z-index: 2;
+}
+
+header > * {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
