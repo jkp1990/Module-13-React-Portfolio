@@ -11,7 +11,17 @@ export default function Home() {
         </section>
       </div>
       <section className="bio inner-container">
+        <h3>
+          Bringing designs to life with code.
+        </h3>
         <p>I am a passionate and dedicated individual currently studying the Front-End Web Development Bootcamp on edX. With a strong foundation in HTML, CSS, JavaScript, Node.js, and React, I am eager to apply my skills and knowledge to create engaging and dynamic web experiences.</p>
+        <div className="tac" style={{paddingTop: '15px'}}>
+          <a href="/cv.pdf" target="_blank">
+            <button>
+              View resume
+            </button>
+          </a>
+        </div>
         <br />
         <div className="card">
           <h4 className="tac">Skills</h4>

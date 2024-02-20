@@ -30,7 +30,7 @@ Remember, "good" design is subjective. Your site should look "polished" and "pro
     * [ ] LinkedIn Page
     * [ ] Email Address
     * [ ] Phone Number - (optional)
-    🍪 [ ] PDF version of your resume
+     [ ] PDF version of your resume
       * Your resume **must** contain up-to-date projects and professional experience
     * [ ] A list of projects (Challenges or Projects). For each project, make sure you have the following:
       * [ ] Project title
@@ -56,7 +56,7 @@ Remember, "good" design is subjective. Your site should look "polished" and "pro
   * [ ] Must be rendered across the entire site
   * [ ] Must Contain a Navbar
 * [ ] Project Gallery:
-  * [ ] Must render dynamically 🍪 6 instances of the Project component
+  * [ ] Must render dynamically 6 instances of the Project component
     * [ ] Be sure to store your project data in a JSON file and import it into your project
 * [ ] Project:
   * [ ] Must be a reusable component that ingests JSON data as a props and renders a single instance for each project.
@@ -68,13 +68,13 @@ Remember, "good" design is subjective. Your site should look "polished" and "pro
     * [ ] GIF or screenshot of the deployed application
 * [ ] Contact:
   * [ ] Must have contact information
-  🍪 [ ] Have a contact form for handling events
+  [ ] Have a contact form for handling events
 * [ ] Home:
   * This should be a welcome landing page that contains:
     * [ ] Your Name
     * [ ] A Headshot of you
-    🍪 [ ] Your brand statement
-    🍪 [ ] Some indication that this is your portfolio site
+    [ ] Your brand statement
+    [ ] Some indication that this is your portfolio site
 
 ### Updated Social Media Presence
 
@@ -85,7 +85,7 @@ Remember, "good" design is subjective. Your site should look "polished" and "pro
 
 #### GitHub
 
-🍪 Update GitHub profile with pinned repositories featuring those same projects.
+Update GitHub profile with pinned repositories featuring those same projects.
 
 ## Grading
 
@@ -128,9 +128,3 @@ This challenge is assessed on the following criteria:
 ---
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
 
-
-git init
-git remote add origin github-link-here
-git add .
-git commit -m "set up routes"
-git push origin main

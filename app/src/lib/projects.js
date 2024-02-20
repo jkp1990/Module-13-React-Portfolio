@@ -48,14 +48,14 @@ const projects = [
   },
   // Edit these
   {
-    name: "Project 6",
-    description: "A simple calendar app for scheduling your work day",
+    name: "Password Generator",
+    description: "A simple web application that can generate a secure password. It can generate passwords which contain any combination of lowercase, uppercase, numeric, or special characters.",
     github:
-      "https://github.com/jkp1990/Module-7-Third-Party-APIs-Work-Day-Scheduler.git",
+      "https://github.com/jkp1990/Module-5-Password-Generator.git",
     deployment:
-      "https://jkp1990.github.io/Module-7-Third-Party-APIs-Work-Day-Scheduler",
-    concepts: ["Web APIs", "Ajax", "localStorage API"],
-    screenshot: "Challenge 7",
+      "https://jkp1990.github.io/Module-5-Password-Generator",
+    concepts: ["DOM Manipulation", "Form Validation"],
+    screenshot: "Challenge 5",
   },
 ];
 

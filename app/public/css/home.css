@@ -22,3 +22,13 @@
 #skills-list li {
     margin: 1rem 0;
 }
+
+button {
+    background-color: var(--purple3);
+    color: white;
+    border: 0;
+    padding: .5rem 1rem;
+    border-radius: 100px;
+    cursor: pointer;
+}
+

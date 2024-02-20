@@ -1,8 +1,11 @@
+import ContactForm from "../ContactForm"
+
 export default function Contact() {
   return (
     <div className="container">
       <div className="inner-container" id="contact">
         <h2 className="tac">Contact me</h2>
+        <ContactForm />
         <table>
           <tbody>
             <tr>
